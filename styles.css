@@ -1,0 +1,29 @@
+﻿.login-page {
+  min-height: 100vh;
+  background: linear-gradient(180deg, #f6f8fb 0%, #eef2f7 100%);
+}
+
+.page-wrap {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+}
+
+.signin-card {
+  width: 100%;
+  max-width: 380px;
+}
+
+.logo {
+  max-width: 260px;
+}
+
+.btn {
+  border-radius: 999px;
+}
+
+.form-control {
+  border-radius: 999px;
+}
